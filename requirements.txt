@@ -1,0 +1,23 @@
+#to load the .env in to the project
+python-dotenv
+
+langchain
+langchain-core
+langchain-community
+
+#LLM Provider
+
+langchain-groq
+langchain-text-splitters
+
+
+
+#Vector Store
+faiss-cpu
+
+#notebook - For experimentation
+jupyter
+ipykernel
+
+#Frontend
+streamlit
